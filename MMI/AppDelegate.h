@@ -7,6 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewController.h"
+#import "SlideNavigationController.h"
+#import "LeftViewController.h"
+
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
